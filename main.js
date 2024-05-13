@@ -15,7 +15,7 @@ let perguntas = [
 function inicio(){
   formulario.innerHTML = "";
   contador=0;
-  contador=0;
+  pontuacao=0;
   pergunta();
 }
 function pergunta(){
