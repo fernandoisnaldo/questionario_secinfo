@@ -1,7 +1,7 @@
 body {
   font-family: Sans, Arial, Heveltica;
   background-color: #002;
-  background: radial-gradient(circle, #237 0%, #010 100%);
+  background: radial-gradient(circle, #237 0%, #101 100%);
   background-attachment: fixed;
   font-size: 15pt;
 }
