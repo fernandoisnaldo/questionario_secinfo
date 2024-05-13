@@ -1,0 +1,12 @@
+body {
+	text-align: center ;
+	font-family: Sans, Arial, Courier, Heveltica;
+	margin: 1%;
+	padding: 1%;
+}
+#resultado {
+	font-size: 2in;
+}
+button {
+	font-size: 0.5in;
+}
